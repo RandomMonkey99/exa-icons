@@ -1,0 +1,23 @@
+{
+  "name": "micon",
+  "displayName": "Micon",
+  "description": "mi icon pack",
+  "version": "0.0.1",
+  "publisher": "AndrewStone",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "micons",
+        "label": "MIcons",
+        "path": "./icons/micons.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+    "iconDefinitions": {
+        "file": {
+            "iconPath": "./dark/default-file.svg"
+        },
+        "folder": {
+            "iconPath": "./dark/default-folder.svg"
+        },
+        "folder-open": {
+            "iconPath": "./dark/default-folder-open.svg"
+        },
+        "vscode-folder": {
+            "iconPath": "./dark/vscode-folder.svg"
+        },
+        "vscode-folder-open": {
+            "iconPath": "./dark/vscode-folder-open.svg"
+        },
+        "markdown": {
+            "iconPath": "./dark/markdown.svg"
+        },
+        "lua": {
+            "iconPath": "./dark/lua.svg"
+        },
+        "python": {
+            "iconPath": "./dark/python.svg"
+        },
+        "c": {
+            "iconPath": "./dark/c.svg"
+        },
+        "cpp": {
+            "iconPath": "./dark/cpp.svg"
+        },
+        "c-header": {
+            "iconPath": "./dark/c-header.svg"
+        },
+        "toml": {
+            "iconPath": "./dark/toml.svg"
+        },
+        "rust": {
+            "iconPath": "./dark/rust-ferris.svg"
+        },
+        "git": {
+            "iconPath": "./dark/git.svg"
+        },
+        "makefile": {
+            "iconPath": "./dark/makefile.svg"
+        },
+        "lock": {
+            "iconPath": "./dark/lock.svg"
+        },
+        "gavel": {
+            "iconPath": "./dark/gavel.svg"
+        },
+        "swift": {
+            "iconPath": "./dark/swift.svg"
+        },
+        "json": {
+            "iconPath": "./dark/json.svg"
+        },
+        "html": {
+            "iconPath": "./dark/html.svg"
+        },
+        "css": {
+            "iconPath": "./dark/css.svg"
+        },
+        "sass": {
+            "iconPath": "./dark/sass.svg"
+        },
+        "go": {
+            "iconPath": "./dark/go-logo.svg"
+        },
+        "typescript": {
+            "iconPath": "./dark/typescript.svg"
+        },
+        "react-ts": {
+            "iconPath": "./dark/react-ts.svg"
+        },
+        "react-js": {
+            "iconPath": "./dark/react-js.svg"
+        },
+        "file-light": {
+            "iconPath": "./light/default-file.svg"
+        },
+        "folder-light": {
+            "iconPath": "./light/default-folder.svg"
+        },
+        "folder-open-light": {
+            "iconPath": "./light/default-folder-open.svg"
+        },
+        "lock-light": {
+            "iconPath": "./light/lock.svg"
+        },
+        "markdown-light": {
+            "iconPath": "./light/markdown.svg"
+        },
+        "lua-light": {
+            "iconPath": "./light/lua.svg"
+        },
+        "python-light": {
+            "iconPath": "./light/python.svg"
+        },
+        "c-light": {
+            "iconPath": "./light/c.svg"
+        },
+        "cpp-light": {
+            "iconPath": "./light/cpp.svg"
+        },
+        "toml-light": {
+            "iconPath": "./light/toml.svg"
+        },
+        "json-light": {
+            "iconPath": "./light/json.svg"
+        },
+        "vscode-folder-light": {
+            "iconPath": "./light/vscode-folder.svg"
+        },
+        "vscode-folder-open-light": {
+            "iconPath": "./light/vscode-folder-open.svg"
+        }
+    },
+    "file": "file",
+    "folder": "folder",
+    "folderExpanded": "folder-open",
+    "folderNames": {
+        ".vscode": "vscode-folder"
+    },
+    "folderNamesExpanded": {
+        ".vscode": "vscode-folder-open"
+    },
+    "fileExtensions": {
+        "md": "markdown",
+        "lua": "lua",
+        "py": "python",
+        "c": "c",
+        "cpp": "cpp",
+        "toml": "toml",
+        "rs": "rust",
+        "gitignore": "git",
+        "gitattributes": "git",
+        "vscodeignore": "git",
+        "h": "c-header",
+        "lock": "lock",
+        "swift": "swift",
+        "json": "json",
+        "html": "html",
+        "css": "css",
+        "sass": "sass",
+        "scss": "sass",
+        "go": "go",
+        "ts": "typescript",
+        "tsx": "react-ts",
+        "jsx": "react-js"
+    },
+    "fileNames": {
+        "Makefile": "makefile",
+        "LICENSE": "gavel",
+        "LICENSE.txt": "gavel",
+        "LICENSE.md": "gavel"
+    },
+    "light": {
+        "file": "file-light",
+        "folder": "folder-light",
+        "folderExpanded": "folder-open-light",
+        "fileExtensions": {
+            "md": "markdown-light",
+            "lua": "lua-light",
+            "py": "python-light",
+            "c": "c-light",
+            "cpp": "cpp-light",
+            "toml": "toml-light",
+            "json": "json-light",
+            "lock": "lock-light"
+        },
+        "folderNames": {
+            ".vscode": "vscode-folder-light"
+        },
+        "folderNamesExpanded": {
+            ".vscode": "vscode-folder-open-light"
+        }
+    }
+}
