@@ -1,21 +1,40 @@
-# micon README
+# micons • an icon theme for vscode
 
-## Working with Markdown
+## Why make micons?
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+In short, icons communicate information faster than looking at file extenstion and serve as a reference when looking through nested directories (and they look cool).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Why not use ____ icon theme?
 
-## For more information
+Other icon themes I've tried have had poor support for both light/dark mode editor themes. Some icons would look great on a dark UI but indistinguishable on a light UI (or vice-versa).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Current list file extenstion with custom icons:
 
-**Enjoy!**
+- Folder/Directory (open)
+- Folder/Directory (closed)
+- .vscode folder (open)
+- .vscode folder (closed)
+- C (.c)
+- C++ (.cpp)
+- C/C++ header (.h)
+- GO (.go)
+- HTML (.html)
+- SCSS (.scss)
+- CSS (.css)
+- Lua (.lua)
+- Markdown (.md)
+- TOML (.toml)
+- Python (.py)
+- Rust (.rs)
+- Swift (.swift)
+- Typescript (.ts)
+- React.ts (.tsx)
+- React.js (.jsx)
+- .git & .gitignore
 
-## Useful Links
-[VScode Extentions Getting Started](https://code.visualstudio.com/api/get-started/your-first-extension)
-[Extentions Manifest](https://code.visualstudio.com/api/references/extension-manifest)
-[Publishing Extenstions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+*all other files without defined custom icon default to .js icon (see below)*.
+
+Icons that are hard to see either on light or dark background should have a variant that is easier to see.
+
+
+![Micons Preview](micons-07-11-23.png)

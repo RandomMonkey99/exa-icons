@@ -1,6 +1,6 @@
 {
-  "name": "micon",
-  "displayName": "Micon",
+  "name": "micons",
+  "displayName": "Micons",
   "description": "mi icon pack",
   "version": "0.0.1",
   "publisher": "AndrewStone",
@@ -15,7 +15,7 @@
     "iconThemes": [
       {
         "id": "micons",
-        "label": "MIcons",
+        "label": "Micons",
         "path": "./icons/micons.json"
       }
     ]
