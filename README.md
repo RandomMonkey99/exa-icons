@@ -36,7 +36,7 @@ Other icon packs I've tried have had poor support for both light/dark mode edito
 - *.lock
 - LICENSE
 
-*all other files without defined custom icon default to .js icon*.
+All other files without defined custom icon default to `<>` icon.
 
 Icons that are hard to see either on light or dark background should have a variant that is easier to see.
 
