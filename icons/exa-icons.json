@@ -72,11 +72,20 @@
         "typescript": {
             "iconPath": "./dark/typescript.svg"
         },
+        "javascript": {
+            "iconPath": "./dark/javascript.svg"
+        },
         "react-ts": {
             "iconPath": "./dark/react-ts.svg"
         },
         "react-js": {
             "iconPath": "./dark/react-js.svg"
+        },
+        "java": {
+            "iconPath": "./dark/java.svg"
+        },
+        "opencl": {
+            "iconPath": "./dark/opencl.svg"
         },
         "file-light": {
             "iconPath": "./light/default-file.svg"
@@ -99,12 +108,6 @@
         "python-light": {
             "iconPath": "./light/python.svg"
         },
-        "c-light": {
-            "iconPath": "./light/c.svg"
-        },
-        "cpp-light": {
-            "iconPath": "./light/cpp.svg"
-        },
         "toml-light": {
             "iconPath": "./light/toml.svg"
         },
@@ -116,6 +119,18 @@
         },
         "vscode-folder-open-light": {
             "iconPath": "./light/vscode-folder-open.svg"
+        },
+        "gavel-light": {
+            "iconPath": "./light/gavel.svg"
+        },
+        "java-light": {
+            "iconPath": "./light/java.svg"
+        },
+        "opencl-light": {
+            "iconPath": "./light/opencl.svg"
+        },
+        "makefile-light": {
+            "iconPath": "./light/makefile.svg"
         }
     },
     "file": "file",
@@ -133,12 +148,12 @@
         "py": "python",
         "c": "c",
         "cpp": "cpp",
+        "h": "c-header",
         "toml": "toml",
         "rs": "rust",
         "gitignore": "git",
         "gitattributes": "git",
         "vscodeignore": "git",
-        "h": "c-header",
         "lock": "lock",
         "swift": "swift",
         "json": "json",
@@ -148,14 +163,39 @@
         "scss": "sass",
         "go": "go",
         "ts": "typescript",
+        "js": "javascript",
         "tsx": "react-ts",
-        "jsx": "react-js"
+        "jsx": "react-js",
+        "java": "java",
+        "cl": "opencl"
     },
     "fileNames": {
         "Makefile": "makefile",
         "LICENSE": "gavel",
         "LICENSE.txt": "gavel",
         "LICENSE.md": "gavel"
+    },
+    "languageIds": {
+        "markdown": "markdown",
+        "lua": "lua",
+        "python": "python",
+        "c": "c",
+        "cpp": "cpp",
+        "toml": "toml",
+        "rust": "rust",
+        "swift": "swift",
+        "json": "json",
+        "html": "html",
+        "css": "css",
+        "scss": "sass",
+        "go": "go",
+        "typescript": "typescript",
+        "javascript": "javascript",
+        "typescriptreact": "react-ts",
+        "javascriptreact": "react-js",
+        "java": "java",
+        "makefile": "makefile",
+        "opencl": "opencl"
     },
     "light": {
         "file": "file-light",
@@ -165,17 +205,45 @@
             "md": "markdown-light",
             "lua": "lua-light",
             "py": "python-light",
-            "c": "c-light",
-            "cpp": "cpp-light",
             "toml": "toml-light",
             "json": "json-light",
-            "lock": "lock-light"
+            "lock": "lock-light",
+            "java": "java-light",
+            "cl": "opencl-light"
         },
         "folderNames": {
             ".vscode": "vscode-folder-light"
         },
         "folderNamesExpanded": {
             ".vscode": "vscode-folder-open-light"
+        },
+        "fileNames": {
+            "LICENSE": "gavel-light",
+            "LICENSE.txt": "gavel-light",
+            "LICENSE.md": "gavel-light",
+            "Makefile": "makefile-light"
+        },
+        "languageIds": {
+            "markdown": "markdown-light",
+            "lua": "lua-light",
+            "python": "python-light",
+            "c": "c",
+            "cpp": "cpp",
+            "toml": "toml-light",
+            "rust": "rust",
+            "swift": "swift",
+            "json": "json-light",
+            "html": "html",
+            "css": "css",
+            "scss": "sass",
+            "go": "go",
+            "typescript": "typescript",
+            "javascript": "javascript",
+            "typescriptreact": "react-ts",
+            "javascriptreact": "react-js",
+            "java": "java-light",
+            "makefile": "makefile-light",
+            "opencl": "opencl-light"
         }
     }
 }

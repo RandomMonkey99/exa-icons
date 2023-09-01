@@ -1,22 +1,30 @@
 {
-  "name": "micons",
-  "displayName": "Micons",
-  "description": "mi icon pack",
-  "version": "0.0.1",
-  "publisher": "AndrewStone",
+  "name": "exa-icons",
+  "displayName": "Exa - Icon Pack",
+  "description": "Get your own icons",
+  "version": "0.1.0",
+  "publisher": "exastone",
   "engines": {
     "vscode": "^1.72.0"
   },
+  "icon": "party-puffin-circle.png",
   "categories": [
     "Themes",
     "Other"
   ],
+  "keywords": [
+    "icon",
+    "icons",
+    "exa",
+    "theme",
+    "pack"
+  ],
   "contributes": {
     "iconThemes": [
       {
-        "id": "micons",
-        "label": "Micons",
-        "path": "./icons/micons.json"
+        "id": "exa",
+        "label": "exa",
+        "path": "./icons/exa-icons.json"
       }
     ]
   }
