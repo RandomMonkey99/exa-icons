@@ -41,4 +41,4 @@ Other icon packs I've tried have had poor support for both light/dark mode edito
 Icons that are hard to see either on light or dark background should have a variant that is easier to see.
 
 
-![ExaIcons Preview](/screenshots/preview-sidebyside.png)
+![ExaIcons Preview](https://github.com/exastone/exa-icons/blob/main/screenshots/preview-sidebyside.png)
