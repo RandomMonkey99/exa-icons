@@ -41,4 +41,4 @@ All other files without defined custom icon default to `<>` icon.
 Icons that are hard to see either on light or dark background should have a variant that is easier to see.
 
 
-![ExaIcons Preview](https://github.com/exastone/exa-icons/blob/main/screenshots/preview-sidebyside.png)
+![Exa Icons Preview](https://github.com/exastone/exa-icons/blob/main/screenshots/preview-sidebyside.png?raw=true)
