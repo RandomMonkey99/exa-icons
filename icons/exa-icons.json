@@ -87,6 +87,9 @@
         "opencl": {
             "iconPath": "./dark/opencl.svg"
         },
+        "cmake": {
+            "iconPath": "./dark/cmake.svg"
+        },
         "file-light": {
             "iconPath": "./light/default-file.svg"
         },
@@ -131,6 +134,9 @@
         },
         "makefile-light": {
             "iconPath": "./light/makefile.svg"
+        },
+        "cmake-light": {
+            "iconPath": "./light/cmake.svg"
         }
     },
     "file": "file",
@@ -173,7 +179,9 @@
         "Makefile": "makefile",
         "LICENSE": "gavel",
         "LICENSE.txt": "gavel",
-        "LICENSE.md": "gavel"
+        "LICENSE.md": "gavel",
+        "CMakeLists.txt": "cmake",
+        "CMakeCache.txt": "cmake"
     },
     "languageIds": {
         "markdown": "markdown",
@@ -195,7 +203,9 @@
         "javascriptreact": "react-js",
         "java": "java",
         "makefile": "makefile",
-        "opencl": "opencl"
+        "opencl": "opencl",
+        "cmake": "cmake",
+        "cmake-cache": "cmake"
     },
     "light": {
         "file": "file-light",
@@ -221,7 +231,9 @@
             "LICENSE": "gavel-light",
             "LICENSE.txt": "gavel-light",
             "LICENSE.md": "gavel-light",
-            "Makefile": "makefile-light"
+            "Makefile": "makefile-light",
+            "CMakeLists.txt": "cmake-light",
+            "CMakeCache.txt": "cmake-light"
         },
         "languageIds": {
             "markdown": "markdown-light",
@@ -243,7 +255,9 @@
             "javascriptreact": "react-js",
             "java": "java-light",
             "makefile": "makefile-light",
-            "opencl": "opencl-light"
+            "opencl": "opencl-light",
+            "cmake": "cmake-light",
+            "cmake-cache": "cmake-light"
         }
     }
 }
