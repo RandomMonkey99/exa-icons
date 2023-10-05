@@ -90,6 +90,9 @@
         "cmake": {
             "iconPath": "./dark/cmake.svg"
         },
+        "sqlite": {
+            "iconPath": "./dark/sqlite.svg"
+        },
         "file-light": {
             "iconPath": "./light/default-file.svg"
         },
@@ -137,6 +140,9 @@
         },
         "cmake-light": {
             "iconPath": "./light/cmake.svg"
+        },
+        "sqlite-light": {
+            "iconPath": "./light/sqlite.svg"
         }
     },
     "file": "file",
@@ -173,7 +179,8 @@
         "tsx": "react-ts",
         "jsx": "react-js",
         "java": "java",
-        "cl": "opencl"
+        "cl": "opencl",
+        "sqlite": "sqlite"
     },
     "fileNames": {
         "Makefile": "makefile",
@@ -205,7 +212,8 @@
         "makefile": "makefile",
         "opencl": "opencl",
         "cmake": "cmake",
-        "cmake-cache": "cmake"
+        "cmake-cache": "cmake",
+        "sqlite": "sqlite"
     },
     "light": {
         "file": "file-light",
@@ -219,7 +227,8 @@
             "json": "json-light",
             "lock": "lock-light",
             "java": "java-light",
-            "cl": "opencl-light"
+            "cl": "opencl-light",
+            "sqlite": "sqlite-light"
         },
         "folderNames": {
             ".vscode": "vscode-folder-light"
@@ -257,7 +266,8 @@
             "makefile": "makefile-light",
             "opencl": "opencl-light",
             "cmake": "cmake-light",
-            "cmake-cache": "cmake-light"
+            "cmake-cache": "cmake-light",
+            "sqlite": "sqlite-light"
         }
     }
 }

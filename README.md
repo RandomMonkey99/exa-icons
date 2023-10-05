@@ -1,5 +1,9 @@
 # Exa Icons • an icon pack for vscode
 
+**New in 0.1.3**
+
+Icon added for sqlite (light & dark variants)
+
 **Why an icon pack?**
 
 Icons communicate information faster than looking at file extenstion and serve as a reference when looking through nested directories (and they look cool).
