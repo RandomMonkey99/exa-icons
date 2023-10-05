@@ -39,6 +39,7 @@ Other icon packs I've tried have had poor support for both light/dark mode edito
 - .git & .gitignore
 - *.lock
 - LICENSE
+- *.sqlite
 
 All other files without defined custom icon default to `<>` icon.
 
