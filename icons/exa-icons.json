@@ -87,6 +87,12 @@
         "opencl": {
             "iconPath": "./dark/opencl.svg"
         },
+        "opengl": {
+            "iconPath": "./dark/opengl.svg"
+        },
+        "webgpu": {
+            "iconPath": "./dark/webgpu.svg"
+        },
         "cmake": {
             "iconPath": "./dark/cmake.svg"
         },
@@ -135,6 +141,12 @@
         "opencl-light": {
             "iconPath": "./light/opencl.svg"
         },
+        "opengl-light": {
+            "iconPath": "./light/opengl.svg"
+        },
+        "webgpu-light": {
+            "iconPath": "./light/webgpu.svg"
+        },
         "makefile-light": {
             "iconPath": "./light/makefile.svg"
         },
@@ -180,6 +192,8 @@
         "jsx": "react-js",
         "java": "java",
         "cl": "opencl",
+        "glsl": "opengl",
+        "wgsl": "webgpu",
         "sqlite": "sqlite"
     },
     "fileNames": {
@@ -211,6 +225,8 @@
         "java": "java",
         "makefile": "makefile",
         "opencl": "opencl",
+        "opengl": "opengl",
+        "webgpu": "webgpu",
         "cmake": "cmake",
         "cmake-cache": "cmake",
         "sqlite": "sqlite"
@@ -228,6 +244,8 @@
             "lock": "lock-light",
             "java": "java-light",
             "cl": "opencl-light",
+            "glsl": "opengl-light",
+            "wgsl": "webgpu-light",
             "sqlite": "sqlite-light"
         },
         "folderNames": {
@@ -265,6 +283,8 @@
             "java": "java-light",
             "makefile": "makefile-light",
             "opencl": "opencl-light",
+            "opengl": "opengl-light",
+            "webgpu": "webgpu-light",
             "cmake": "cmake-light",
             "cmake-cache": "cmake-light",
             "sqlite": "sqlite-light"

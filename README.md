@@ -1,12 +1,18 @@
 # Exa Icons • an icon pack for vscode
 
+**New in 0.1.4**
+
+Icon added for OpenGL and WebGPU (light & dark variants)
+
+Tweeks to several others (cpp, git (dark), js, ts, lock, make, sqlite)
+
 **New in 0.1.3**
 
 Icon added for sqlite (light & dark variants)
 
 **Why an icon pack?**
 
-Icons communicate information faster than looking at file extenstion and serve as a reference when looking through nested directories (and they look cool).
+Icons communicate faster than looking at file extensions and serve as a reference when looking through nested directories (and they look cool).
 
 **Why not ___ icon pack?**
 
@@ -16,34 +22,36 @@ Other icon packs I've tried have had poor support for both light/dark mode edito
 
 - Folder/Directory (open)
 - Folder/Directory (closed)
-- .vscode folder (open)
+- .git & .gitignore
 - .vscode folder (closed)
+- .vscode folder (open)
+- *.lock
+- *.sqlite
 - C (.*c)
-- C++ (*.cpp)
 - C/C++ header (*.h)
-- OpenCL (*.cl)
+- C++ (*.cpp)
+- CSS (*.css)
 - GO (*.go)
 - HTML (*.html)
-- SCSS (*.scss)
-- CSS (*.css)
+- Javascript (*.js)
+- LICENSE
 - Lua (*.lua)
 - Markdown (*.md)
-- TOML (*.toml)
+- OpenCL (*.cl)
+- OpenGL (*.glsl)
 - Python (*.py)
-- Rust (*.rs)
-- Swift (*.swift)
-- Javascript (*.js)
-- Typescript (*.ts)
-- React.ts (*.tsx)
 - React.js (*.jsx)
-- .git & .gitignore
-- *.lock
-- LICENSE
-- *.sqlite
+- React.ts (*.tsx)
+- Rust (*.rs)
+- SCSS (*.scss)
+- Swift (*.swift)
+- TOML (*.toml)
+- Typescript (*.ts)
+- WebGPU (*.wgsl)
 
 All other files without defined custom icon default to `<>` icon.
 
-Icons that are hard to see either on light or dark background should have a variant that is easier to see.
 
+![Exa Icons Preview](https://github.com/exastone/exa-icons/blob/main/screenshots/icons-dark.png?raw=true)
 
-![Exa Icons Preview](https://github.com/exastone/exa-icons/blob/main/screenshots/preview-sidebyside.png?raw=true)
+![Exa Icons Preview](https://github.com/exastone/exa-icons/blob/main/screenshots/icons-light.png?raw=true)
