@@ -1,5 +1,10 @@
 # Exa Icons • an icon pack for vscode
 
+**New in 0.1.5**
+
+Icon added for Terraform
+
+
 **New in 0.1.4**
 
 Icon added for OpenGL and WebGPU (light & dark variants)

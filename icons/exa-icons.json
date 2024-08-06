@@ -99,6 +99,9 @@
         "sqlite": {
             "iconPath": "./dark/sqlite.svg"
         },
+        "terraform": {
+            "iconPath": "./dark/terraform.svg"
+        },
         "file-light": {
             "iconPath": "./light/default-file.svg"
         },
@@ -194,7 +197,8 @@
         "cl": "opencl",
         "glsl": "opengl",
         "wgsl": "webgpu",
-        "sqlite": "sqlite"
+        "sqlite": "sqlite",
+        "tf": "terraform"
     },
     "fileNames": {
         "Makefile": "makefile",
