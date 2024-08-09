@@ -1,5 +1,11 @@
 # Exa Icons • an icon pack for vscode
 
+**New in 0.1.6**
+
+Icon variant added for Terraform variables file (.tfvars)
+
+Icon added for PowerShell (light & dark variants)
+
 **New in 0.1.5**
 
 Icon added for Terraform

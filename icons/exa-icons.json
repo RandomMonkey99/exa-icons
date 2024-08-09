@@ -102,6 +102,12 @@
         "terraform": {
             "iconPath": "./dark/terraform.svg"
         },
+        "terraform-tfvars": {
+            "iconPath": "./dark/terraform-tfvars.svg"
+        },
+        "powershell": {
+            "iconPath": "./dark/powershell.svg"
+        },
         "file-light": {
             "iconPath": "./light/default-file.svg"
         },
@@ -158,6 +164,9 @@
         },
         "sqlite-light": {
             "iconPath": "./light/sqlite.svg"
+        },
+        "powershell-light": {
+            "iconPath": "./light/powershell.svg"
         }
     },
     "file": "file",
@@ -198,7 +207,9 @@
         "glsl": "opengl",
         "wgsl": "webgpu",
         "sqlite": "sqlite",
-        "tf": "terraform"
+        "tf": "terraform",
+        "tfvars": "terraform-tfvars",
+        "ps1": "powershell"
     },
     "fileNames": {
         "Makefile": "makefile",
@@ -233,7 +244,10 @@
         "webgpu": "webgpu",
         "cmake": "cmake",
         "cmake-cache": "cmake",
-        "sqlite": "sqlite"
+        "sqlite": "sqlite",
+        "tf": "terraform",
+        "tfvars": "terraform-tfvars",
+        "powershell": "powershell"
     },
     "light": {
         "file": "file-light",
@@ -250,7 +264,8 @@
             "cl": "opencl-light",
             "glsl": "opengl-light",
             "wgsl": "webgpu-light",
-            "sqlite": "sqlite-light"
+            "sqlite": "sqlite-light",
+            "powershell": "powershell-light"
         },
         "folderNames": {
             ".vscode": "vscode-folder-light"
@@ -291,7 +306,8 @@
             "webgpu": "webgpu-light",
             "cmake": "cmake-light",
             "cmake-cache": "cmake-light",
-            "sqlite": "sqlite-light"
+            "sqlite": "sqlite-light",
+            "powershell": "powershell-light"
         }
     }
 }
